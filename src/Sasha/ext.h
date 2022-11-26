@@ -1,0 +1,3 @@
+//используемые расширения 
+PFNGLACTIVETEXTUREARBPROC glActiveTextureARB;
+PFNGLFOGCOORDFEXTPROC glFogCoordfEXT;
